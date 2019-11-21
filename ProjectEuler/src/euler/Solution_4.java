@@ -32,8 +32,8 @@ public class Solution_4 {
             s.append(set.floor(sc.nextInt()-1)).append("\n");
         }
         System.out.println(s);
-        
-        
+        sc.close();
     }
+    
 }
 
