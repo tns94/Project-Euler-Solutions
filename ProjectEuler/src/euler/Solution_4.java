@@ -1,5 +1,6 @@
 package euler;
 import java.util.*;
+
 /*
  * Solution of Project Euler Problem #4
  */
