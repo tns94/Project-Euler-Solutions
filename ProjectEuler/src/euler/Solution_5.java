@@ -5,11 +5,10 @@ import java.util.Scanner;
 /*
  * Solution of Project Euler Problem #5
  */
+
 public class Solution_5 {
 
-    
-    
-    static boolean isNum(long num,int n)
+	static boolean isNum(long num,int n)
     {
         for (int i = 2; i < n; i++) {
             if (num%i!=0)
